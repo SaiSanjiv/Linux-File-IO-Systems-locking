@@ -1,5 +1,5 @@
 # Linux-File-IO-Systems-locking
-Ex07-Linux File-IO Systems-locking
+## Ex07-Linux File-IO Systems-locking
 ### Sai Sanjiv R (212223230179)
 # AIM:
 To Write a C program that illustrates files copying and locking
@@ -40,7 +40,7 @@ exit(0);}
 
 ## OUTPUT
 ```
--rwxr-xr-x    1 root     root         18348 Apr 17 14:14 file.o
+-rwxr-xr-x    1 root     root         18348 May 07 14:14 file.o
 ```
 ## 2.To Write a C program that illustrates files locking
 ```
